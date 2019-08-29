@@ -27,7 +27,7 @@
     //"Asp.netCoreMVCCRUD": {
     //  "commandName": "Project",
     //  "launchBrowser": true,
-    //  "applicationUrl": "http://localhost:5000",
+    //  "applicationUrl": "https://mypaasapp.azurewebsites.net",
     //  "environmentVariables": {
     //    "ASPNETCORE_ENVIRONMENT": "Development"
     //  }
