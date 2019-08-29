@@ -6,9 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Asp.netCoreMVCCRUD.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Asp.netCoreMVCCRUD.Controllers
 {
+   
     public class EmployeeController : Controller
     {
         private readonly EmployeeContext _context;
