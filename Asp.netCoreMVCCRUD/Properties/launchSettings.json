@@ -22,15 +22,15 @@
     "environmentVariables": {
       "ASPNETCORE_ENVIRONMENT": "Staging"
     },
-    "applicationUrl": "http://localhost:54340/",
+    "applicationUrl": "http://localhost:54340/"
 
-    "Asp.netCoreMVCCRUD": {
-      "commandName": "Project",
-      "launchBrowser": true,
-      "applicationUrl": "http://localhost:5000",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
-    }
+    //"Asp.netCoreMVCCRUD": {
+    //  "commandName": "Project",
+    //  "launchBrowser": true,
+    //  "applicationUrl": "http://localhost:5000",
+    //  "environmentVariables": {
+    //    "ASPNETCORE_ENVIRONMENT": "Development"
+    //  }
+    //}
   }
 }
